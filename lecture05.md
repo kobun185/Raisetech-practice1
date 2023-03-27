@@ -28,6 +28,7 @@
   ![picture 11](images/064885da3ad15d15c9626d25d3b9983d4a3698a87e8ec5100979873c09cf9e53.png)  
 <br>
 - 構成図
+
   ![picture 12](images/ba1b22b970dc9a8ead21586c35624d43c4892ba99d6550b91a33d588929ffaeb.png)  
 <br>
 ## 今回の課題でつまずいたポイント  
